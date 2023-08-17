@@ -1,4 +1,5 @@
-### Hi there 👋
+
+fyi: most contributions are in private repositories: robinhood (eng work) + columbia (coursework)
 
 <!--
 **samaynathani/samaynathani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
