@@ -1,9 +1,7 @@
-```
 - software engineer @ robinhood markets working on derivatives
 - ms cs @ columbia university
 - prev @ snap inc, square, amazon, cisco
 - [google scholar page](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AKKJWFdFni0nqJqU-nuzgXpWiNJhVsWMZm3cBAjWB_8TgfAZwcfOKp2hFT7bcPlfqsxVCkyzaF6aepfrg-5iOg&user=iPDO9-EAAAAJ)
-```
 <!--
 **samaynathani/samaynathani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
